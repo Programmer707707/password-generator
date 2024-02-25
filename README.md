@@ -11,7 +11,7 @@ To run this project locally, follow these steps:
 # Clone the repository to your local machine:
 bash
 Copy code
-git clone https://github.com/your-username/password-generator.git
+git clone [https://github.com/your-username/password-generator.git](https://github.com/Programmer707707/password-generator/)
 
 # Navigate to the project directory:
 bash
